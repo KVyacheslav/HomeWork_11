@@ -1,0 +1,16 @@
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_11\GitLab\HomeWork_11\Example_02\bin\Debug\net5.0\Example_02.exe
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_11\GitLab\HomeWork_11\Example_02\bin\Debug\net5.0\Example_02.deps.json
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_11\GitLab\HomeWork_11\Example_02\bin\Debug\net5.0\Example_02.runtimeconfig.json
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_11\GitLab\HomeWork_11\Example_02\bin\Debug\net5.0\Example_02.runtimeconfig.dev.json
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_11\GitLab\HomeWork_11\Example_02\bin\Debug\net5.0\Example_02.dll
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_11\GitLab\HomeWork_11\Example_02\bin\Debug\net5.0\ref\Example_02.dll
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_11\GitLab\HomeWork_11\Example_02\bin\Debug\net5.0\Example_02.pdb
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_11\GitLab\HomeWork_11\Example_02\obj\Debug\net5.0\Example_02.csproj.AssemblyReference.cache
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_11\GitLab\HomeWork_11\Example_02\obj\Debug\net5.0\Example_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_11\GitLab\HomeWork_11\Example_02\obj\Debug\net5.0\Example_02.AssemblyInfoInputs.cache
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_11\GitLab\HomeWork_11\Example_02\obj\Debug\net5.0\Example_02.AssemblyInfo.cs
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_11\GitLab\HomeWork_11\Example_02\obj\Debug\net5.0\Example_02.csproj.CoreCompileInputs.cache
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_11\GitLab\HomeWork_11\Example_02\obj\Debug\net5.0\Example_02.dll
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_11\GitLab\HomeWork_11\Example_02\obj\Debug\net5.0\ref\Example_02.dll
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_11\GitLab\HomeWork_11\Example_02\obj\Debug\net5.0\Example_02.pdb
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_11\GitLab\HomeWork_11\Example_02\obj\Debug\net5.0\Example_02.genruntimeconfig.cache
